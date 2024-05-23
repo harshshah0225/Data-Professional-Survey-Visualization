@@ -1,2 +1,2 @@
 # Data Professional Survey Visualization
- 
+This project aims to analyze and visualize the results of a data professional survey using Power BI. The survey collects information about the skills, experiences, and preferences of individuals working in the data field. By leveraging Power BI's capabilities, we can gain insights into the demographics, job roles, salary trends, and technology preferences of data professionals. 
